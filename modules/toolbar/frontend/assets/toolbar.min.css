@@ -1,0 +1,26 @@
+body {
+    margin-top: 40px
+}
+#fc-frontend-toolbar {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    min-height: 28px
+}
+#fc-frontend-toolbar .dropdown-menu {
+    border-radius: 0
+}
+#fc-frontend-toolbar .dropdown-menu:empty {
+    display: none
+}
+#fc-frontend-toolbar .navbar-nav > li > a {
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+#fc-frontend-toolbar .navbar-brand {
+    height: 40px;
+    line-height: 40px;
+    padding: 9px 15px
+}
+#fc-frontend-toolbar .navbar-toggle {
+    padding: 4px;
+    border-radius: 0
+}
